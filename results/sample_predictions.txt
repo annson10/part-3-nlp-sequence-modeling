@@ -1,0 +1,11 @@
+Text	Actual	Predicted
+i like the new payment and it is easy to use my ticket number is	positive	positive
+great service and clear communication from the support team	positive	positive
+my refund is still pending and this experience is frustrating	negative	negative
+the app crashes whenever i try to use analytics	negative	negative
+the response from the team was helpful and professional	positive	positive
+can someone explain the difference between the plans	neutral	neutral
+i like the new video call and it is easy to use	positive	positive
+i like the new report download and it is easy to use	positive	positive
+can someone explain the difference between the plans	neutral	neutral
+i want to understand the warranty terms for this product	neutral	neutral
